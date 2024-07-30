@@ -1,8 +1,10 @@
 import React from "react";
 
-const QuestionItem = ({ question, answer }) => (
+const QuestionItem = ({ id, question, answer }) => (
   <div>
-    <h3>{question}</h3>
+    <h3>
+      {id}. {question}
+    </h3>
     <p>{answer}</p>
   </div>
 );
