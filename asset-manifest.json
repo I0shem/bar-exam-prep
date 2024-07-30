@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/bar-exam-prep/static/css/main.f855e6bc.css",
+    "main.js": "/bar-exam-prep/static/js/main.0118311e.js",
+    "index.html": "/bar-exam-prep/index.html",
+    "main.f855e6bc.css.map": "/bar-exam-prep/static/css/main.f855e6bc.css.map",
+    "main.0118311e.js.map": "/bar-exam-prep/static/js/main.0118311e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.0118311e.js"
+  ]
+}
